@@ -1,8 +1,0 @@
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\bin\Debug\Lecture-07.1.exe.config
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\bin\Debug\Lecture-07.1.exe
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\bin\Debug\Lecture-07.1.pdb
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\obj\Debug\Lecture-07.1.csproj.AssemblyReference.cache
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\obj\Debug\Lecture-07.1.csproj.SuggestedBindingRedirects.cache
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\obj\Debug\Lecture-07.1.csproj.CoreCompileInputs.cache
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\obj\Debug\Lecture-07.1.exe
-C:\Users\asus\Desktop\c# Console\Lecture-07.1\Lecture-07.1\obj\Debug\Lecture-07.1.pdb
