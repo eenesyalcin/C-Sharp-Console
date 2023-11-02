@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\bin\Debug\Lecture-10.6.exe.config
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\bin\Debug\Lecture-10.6.exe
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\bin\Debug\Lecture-10.6.pdb
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\obj\Debug\Lecture-10.6.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\obj\Debug\Lecture-10.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\obj\Debug\Lecture-10.6.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\obj\Debug\Lecture-10.6.exe
+C:\Users\asus\Desktop\c# Console\Lecture-10.6\Lecture-10.6\obj\Debug\Lecture-10.6.pdb
